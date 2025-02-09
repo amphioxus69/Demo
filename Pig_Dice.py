@@ -94,14 +94,5 @@ while (True):
 
     SCOREBOARD()
 
-# print("Press ENTER to go on or ESC to pass on to next player",end="")
-# if keyboard.read_key()=='enter':
-#   print("xxx")
-# elif keyboard.read_key()=='esc':
-#   print("yyy")
 
-
-# kghfkbfkjbwjkfbjbwkfwfw
-# hdgfhjwbfjkbkjbfjkwbfkjbwbf
-# kfkwebfkjewbkjfbkjwebfkjbwejkfbw
 
