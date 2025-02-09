@@ -1,6 +1,8 @@
+# welcome to pig dice game
+
 import random
 import time
-import keyboard
+
 
 
 def SCOREBOARD():
