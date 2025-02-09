@@ -17,15 +17,12 @@ def abcd(j, k):
   time.sleep(1)
   print(j, " is choosing.... ", end="")
   chu = int(input())
-  # chu = keyboard
   sum = 0
 
   while (True):
 
     roll = random.randint(1, 6)
-    # print("\nPress ENTER to roll dice")
-    # keyboard.wait("enter")
-    # time.sleep(1)
+    
     print("rolling dice....\n")
     time.sleep(1)
     
@@ -45,12 +42,7 @@ def abcd(j, k):
 
     time.sleep(1)
 
-    # print("[Press ENTER to roll again or ESC to pass]",end="")
-
-    # if keyboard.read_key()=="enter":
-    #   continue
-    # elif keyboard.read_key()=="esc":
-    #   return sum
+    
 
     print("Wanna go on?.... : ", end="")
     x = input()
